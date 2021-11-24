@@ -1,2 +1,2 @@
 <?php
-echo 'dev-master';
+echo '2.2.0';
